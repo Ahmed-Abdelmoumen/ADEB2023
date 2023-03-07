@@ -1,0 +1,86 @@
+p{
+    color:red;
+    font-size: 30px;
+    letter-spacing: 1.6;
+    line-height: 0.7;
+}
+.stylep{
+    color:blue;
+    font-size: 25px;
+    font-family: arial;
+}
+#leg{
+    color:green;
+    font-size: 40px;
+}
+#s2{
+    background-color: green;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-top: 10px;
+
+}
+#s2{
+    background-image: url(./images/Arnold.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    height:500px;
+}
+#img{
+    border: 7px solid red;
+    opacity: 0.9;
+    filter:drop-shadow(2px 4px 6px rgb(251, 5, 5), 0px);
+}
+.navbarabc{
+    overflow: hidden;
+    background-color: aquamarine;
+}
+.navbarabc a{
+    color:black;
+    background-color: bisque;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 15px 15px;
+    float:left;
+}
+.navbarabc ul{
+    list-style-type: none;
+}
+.navbarabc a:hover{
+    background-color: brown;
+    color:aqua
+
+}
+.navbarabc a.active{
+    background-color: chartreuse;
+    color:brown;
+}
+.logo{
+
+}
+.body1{
+    background-color: rgba(50, 200, 210, 255);
+}
+.body2{
+    background-color: rgba(50, 190, 210, 255);
+}
+.body1{
+    background-color: rgba(50, 170, 210, 255);
+}
+.body3{
+    background-color: rgba(50, 150, 210, 255);
+}
+.body4{
+    background-color: rgba(50, 130, 210, 255);
+}
+.body5{
+    background-color: rgba(50, 160, 210, 255);
+}
+.body6{
+    background-color: rgba(50, 160, 200, 255);
+}
+.body7{
+    background-color: rgba(50, 150, 190, 255);
+}
